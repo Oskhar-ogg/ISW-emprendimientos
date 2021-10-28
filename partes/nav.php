@@ -8,7 +8,7 @@
             </button>
         
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <form class="form-inline position-relative d-inline-block my-2">
+                <form class="form-inline position-relative d-inline-block my-6 ">
                     <input class="form-control" type="search" placeholder="Buscar" aria-label="Buscar">
                     <button class="btn position-absolute btn-search" type="submit"><i class="icon ion-md-search"></i></button>
                 </form>
